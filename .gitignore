@@ -1,2 +1,5 @@
-# g++ compiler output
+# Default g++ output
 a.out
+
+# Default rustc output
+main
