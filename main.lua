@@ -1,4 +1,4 @@
-for i=1, 10, 1 do
+for i=1, 100, 1 do
     local out = ""
     if(i % 3 == 0) then
         out = out .. "Fizz"
