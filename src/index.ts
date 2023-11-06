@@ -1,4 +1,4 @@
-for (const i = 1; i <= 100; i++) {
+for (let i = 1; i <= 100; i++) {
     let out = "";
 
     if (i % 3 == 0) {
